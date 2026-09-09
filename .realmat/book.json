@@ -1,0 +1,16 @@
+{
+  "id": "discrete-book",
+  "title": "Discrete Mathematics: An Open Introduction",
+  "short_title": "Discrete Mathematics",
+  "subject": "Discrete mathematics",
+  "base_branch": "main",
+  "build_system": "pretext",
+  "pretext_project_file": "project.ptx",
+  "pretext_pdf_target": "print",
+  "pretext_web_target": "web4",
+  "pretext_requirements_file": "requirements.txt",
+  "pdf_name": "discrete-book.pdf",
+  "citation_file": "CITATION.cff",
+  "readme_file": "README.md",
+  "portal_repository": "projetorealmat/projetorealmat.github.io"
+}
