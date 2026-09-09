@@ -41,3 +41,11 @@ Any and all suggestions to improve the text are welcome. Thanks to those who hav
 ## Previous editions
 
 The previous editions have branches, and also tags. Feel free to switch to those if you want to grab the source for those editions.
+
+## REALMat integration
+
+This repository is integrated into REALMat as the original English source. The integration adds release metadata and automated PDF publication without changing the book's mathematical content.
+
+<!-- realmat-release:start -->
+No REALMat release has been published yet.
+<!-- realmat-release:end -->
